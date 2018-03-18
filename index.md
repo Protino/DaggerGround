@@ -4,11 +4,12 @@ It's about Dependency Injection framework(??) by Google Inc.
 
 Also, it is a weapon.
 
-**Note : ** 
-__I plan to learn new stuff this way. I simply write down whatever I read or understand about the `New thing` that I'm learning. Just throw all the stuff that's in my head onto this document/page. Then re-read it and correct myself. 
-Right now, it sounds like a great idea!
+**Note :** 
 
-Also, will add a Disqus section so that the `Lords of the New Thing` can correct me. Or they can also create a pull request, if they are the `Nice lords`__
+<i>I plan to learn new stuff this way. I simply write down whatever I read or understand about the `New thing` that I'm learning. Just throw all the stuff that's in my head onto this document/page. Then re-read it and correct myself. 
+Right now, it sounds like a great idea!</i>
+
+Has Disqus so that the `Lords of the New Thing` can correct me. Or they can also create a pull request, if they are the `Nice lords`</i>
 
 ### What is dependency injection?
 
@@ -27,12 +28,12 @@ What to build?
 - Music app, yeah let's do this. Got some ideas. Also, haven't built a music app before. Getting a feeling that this might get complicated soon with stuff that is completely unrelated to Dagger and I might spend more time on that(Media session, media that, media this bla blah)
 - Memes. Yep that's the one. 
       
-    ![](https://media.giphy.com/media/RrVzUOXldFe8M/giphy.gif)
+    ![LOOOOOOOOOOOOOOOOL](https://media.giphy.com/media/LLHkw7UnvY3Kw/giphy.gif)
     
 - Blindchess app. Hmmmmmm interesting. Because lots of classes - Piece, Board, Move, Engine, Player....`
 
 
-
+<hr/>
 
 <!-- Disqus stuff-->
 
@@ -40,11 +41,10 @@ What to build?
 <script>
 
 var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = 'https://protino.github.io/DaggerGround/'
+this.page.identifier = '/DaggerGround/'
 };
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
+(function() {
 var d = document, s = d.createElement('script');
 s.src = 'https://https-protino-github-io-daggerground.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());

@@ -21,10 +21,12 @@ Also, will add a Disqus section so that the `Lords of the New Thing` can correct
 Build an android app using Dagger2.
 
 What to build?
-    - Weather app? Classes - Weather, Location, 
-    - Todo app? Classes - Note, Dashboard/ Collection, Form/Editor, NoteType
-    - Music app, yeah let's do this. Got some ideas. Also, haven't built a music app before. Getting a feeling that this might get complicated soon with stuff that is completely unrelated to Dagger and I might spend more time on that(Media session, media that, media this bla blah)
-    - Memes. Yep that's the one. 
+
+- Weather app? Classes - Weather, Location, 
+- Todo app? Classes - Note, Dashboard/ Collection, Form/Editor, NoteType
+- Music app, yeah let's do this. Got some ideas. Also, haven't built a music app before. Getting a feeling that this might get complicated soon with stuff that is completely unrelated to Dagger and I might spend more time on that(Media session, media that, media this bla blah)
+- Memes. Yep that's the one. 
       
-    ![][https://media.giphy.com/media/RrVzUOXldFe8M/giphy.gif]
-    - Blindchess app. Hmmmmmm interesting. Because lots of classes - Piece, Board, Move, Engine, Player....
+    ![](https://media.giphy.com/media/RrVzUOXldFe8M/giphy.gif)
+    
+- Blindchess app. Hmmmmmm interesting. Because lots of classes - Piece, Board, Move, Engine, Player....`

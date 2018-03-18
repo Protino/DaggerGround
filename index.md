@@ -1,23 +1,19 @@
-## What is Dagger?
+# What is Dagger
 
-It's about Dependency Injection framework(??) by Google Inc.
+It is a Dependency Injection framework(??) by Google Inc.
 
-Also, it is a weapon.
-
-**Note :** 
-
-<i>I plan to learn new stuff this way. I simply write down whatever I read or understand about the `New thing` that I'm learning. Just throw all the stuff that's in my head onto this document/page. Then re-read it and correct myself. 
-Right now, it sounds like a great idea!</i>
-
-Has Disqus so that the `Lords of the New Thing` can correct me. Or they can also create a pull request, if they are the `Nice lords`</i>
-
-### What is dependency injection?
+## Dependency injection
 
 - Injecting dependencies rather than creating them yourself. (Using `@Inject`)
 - Asking someone else to give us the needs. (i.e, `@Component`)
 - Telling the world( or @Component) that I'll provide the dependencies (`@Module`). Functions
 
-### Plan
+This is what I could figure out from
+- [Gregory Kick - Google Talk](https://www.youtube.com/watch?v=oK_XtfXPkqw)
+- [Patrick Hammond - GDG Talk](https://www.youtube.com/watch?v=cA4iEmWuSB8)
+- [Dagger 2 for Android Beginners](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
+
+## Plan
 
 Build an android app using Dagger2.
 
@@ -25,13 +21,11 @@ What to build?
 
 - Weather app? Classes - Weather, Location, 
 - Todo app? Classes - Note, Dashboard/ Collection, Form/Editor, NoteType
-- Music app, yeah let's do this. Got some ideas. Also, haven't built a music app before. Getting a feeling that this might get complicated soon with stuff that is completely unrelated to Dagger and I might spend more time on that(Media session, media that, media this bla blah)
-- Memes. Yep that's the one. 
-      
-    ![LOOOOOOOOOOOOOOOOL](https://media.giphy.com/media/LLHkw7UnvY3Kw/giphy.gif)
-    
-- Blindchess app. Hmmmmmm interesting. Because lots of classes - Piece, Board, Move, Engine, Player....`
+- Music app. This might get complicated soon with stuff that is completely unrelated to Dagger and we might spend more time on Media session, media this and that.
+- Blindchess app. Interesting because of lots of classes - Piece, Board, Move, Engine, Player....
+- Memes?
 
+    ![LOOOOOOOOOOOOOOOOL](https://media.giphy.com/media/LLHkw7UnvY3Kw/giphy.gif)
 
 <hr/>
 

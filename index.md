@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## What is Dagger?
 
-You can use the [editor on GitHub](https://github.com/Protino/DaggerGround/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+It's about Dependency Injection framework(??) by Google Inc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Also, it is a weapon.
 
-### Markdown
+**Note : ** 
+__I plan to learn new stuff this way. I simply write down whatever I read or understand about the `New thing` that I'm learning. Just throw all the stuff that's in my head onto this document/page. Then re-read it and correct myself. 
+Right now, it sounds like a great idea!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Also, will add a Disqus section so that the `Lords of the New Thing` can correct me. Or they can also create a pull request, if they are the `Nice lords`__
 
-```markdown
-Syntax highlighted code block
+### What is dependency injection?
 
-# Header 1
-## Header 2
-### Header 3
+- Injecting dependencies rather than creating them yourself. (Using `@Inject`)
+- Asking someone else to give us the needs. (i.e, `@Component`)
+- Telling the world( or @Component) that I'll provide the dependencies (`@Module`). Functions
 
-- Bulleted
-- List
+### Plan
 
-1. Numbered
-2. List
+Build an android app using Dagger2.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Protino/DaggerGround/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+What to build?
+    - Weather app? Classes - Weather, Location, 
+    - Todo app? Classes - Note, Dashboard/ Collection, Form/Editor, NoteType
+    - Music app, yeah let's do this. Got some ideas. Also, haven't built a music app before. Getting a feeling that this might get complicated soon with stuff that is completely unrelated to Dagger and I might spend more time on that(Media session, media that, media this bla blah)
+    - Memes. Yep that's the one. 
+      
+    ![][https://media.giphy.com/media/RrVzUOXldFe8M/giphy.gif]
+    - Blindchess app. Hmmmmmm interesting. Because lots of classes - Piece, Board, Move, Engine, Player....
